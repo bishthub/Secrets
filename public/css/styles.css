@@ -1,0 +1,57 @@
+body {
+  background-color: #E8ECEF;
+  background-image: url("https://images.pexels.com/photos/38275/anonymous-studio-figure-photography-facial-mask-38275.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+.container{
+  margin-top: 10%;
+}
+.container.mt-5{
+  border-radius: 10px 10px 10px 10px;
+  background: #fff;
+  width: 60%;
+  max-width: 450px;
+  text-align: center;
+  position: relative;
+  padding: 10px 5px;
+  box-shadow: 0 30px 60px 0;
+}
+
+.lead{
+  font-size: 2.25rem;
+}
+
+.mastfoot {
+  color: rgba(255, 255, 255, .5);
+}
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+footer {
+  color: white;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  bottom: 0;
+  position: fixed;
+  padding-left: 40%;
+  margin-left: auto;
+}
+h1{
+  color: white;
+}
+.registry{
+  margin-top: 3%;
+}
